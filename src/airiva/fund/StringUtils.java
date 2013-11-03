@@ -1,5 +1,5 @@
 
-package bjava.fund;
+package airiva.fund;
 
 /** @author benji */
 public class StringUtils {

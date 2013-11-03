@@ -1,5 +1,5 @@
 
-package bjava.graphics.color;
+package airiva.graphics.color;
 
 /** @author benji */
 public enum Color {
