@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
 public class ColorValidator {
 
     private final  Pattern hexFormPattern = Pattern.compile(
-            "#?(?:[\\da-f]){3}",
+            "(?:[\\da-f]){3}",
             Pattern.CASE_INSENSITIVE);
     
     /** Will return boolean value depending on whether givenString
